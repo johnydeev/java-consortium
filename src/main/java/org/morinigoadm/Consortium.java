@@ -8,6 +8,4 @@ public class Consortium {
     private Unity unidades;
     private String matriculaRPI;
     private String cuit;
-
-
 }
